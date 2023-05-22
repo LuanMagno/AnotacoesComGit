@@ -1,0 +1,16 @@
+﻿Algumas tags (W3 school, para não ter que anotar todas)
+****************************************************************
+Hr             Coloca uma linha para separar o conteúdo
+Br             Quebra a linha
+H(1-6)         Se refere aos títulos 
+P              Parágrafo
+B/Strong       Deixam em negrito(b é visual e strong altera a semântica, marcando o conteúdo como importante)
+ViewPort       Ajuda em sites responsivos
+I/Em           Deixa em itálico(i apenas visual e em também deixa o conteudo enfatizado)
+Del            Risco sobre a palavra
+
+
+O que aparece no Head não aparece para o usuário, o que aparece no body,sim
+<a href="Link do site" title="Tittle mostra quando a pessoa passa o mouse por cima">A para colocar o link</a>
+Também pode ser usado para números e emails
+
