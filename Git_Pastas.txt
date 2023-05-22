@@ -1,0 +1,11 @@
+﻿Git com github
+*************************************************
+git init              Começo do projeto
+git add .             Adicionar arquivo-Se não especificar o nome do arquivo, irá adicionar todos"Necessário .
+git rm --cached       Remover arquivo
+git status            Arquivos considerados pelo git, que ainda não foram adicionados
+git commit -m         Commitar sem precisar abrir outro terminal
+git clone (LINK)      Clona um projeto já existente do github
+git push              Enviar commits para o repositório
+git pull              Manter o projeto com o conteúdo do github
+git push/pull origin     usado sempre que a branch não for a principal
