@@ -1,0 +1,10 @@
+Containers
+*******************************
+header          Para cabeçalho da págino
+nav             Para menu
+footer          RodaPé da página 
+main            Conteúdo principal
+section         Sessões 
+Article         Criar artigos/Posts
+Aside           Barra lateral
+Div             Ainda é usada como container mas não semântico e sim para englobar o conteúdo
