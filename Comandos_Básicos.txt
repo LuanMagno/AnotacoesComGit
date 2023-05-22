@@ -1,0 +1,10 @@
+Comandos básicos do Git
+*************************************************
+ls            Lista tudo do local
+cd            Entra no local escolhido
+cd ..         Sai do local
+mkdir         Cria a pasta 
+echo          Cria arquivo
+rm -r         Deleta arquivo/pasta
+cat           Ver o conteúdo do arquivo 
+
