@@ -1,0 +1,7 @@
+﻿Git log e checkout
+*************************************************
+git log              Ver as versões do git
+git log --stat       Para ver as versões de forma mais detalhada
+git log --oneline    Para ver de forma resumida
+git checkout         Usado tanto para navegar entre as branch quanto pra desfazer alterações em arquivos 
+git revert           Reverter commits
